@@ -9,5 +9,4 @@ class NoobApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
